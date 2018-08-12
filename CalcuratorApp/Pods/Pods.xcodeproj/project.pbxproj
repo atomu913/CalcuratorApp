@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 46;
+	objectVersion = 50;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -54,7 +54,7 @@
 		04457BBD20BA8D34160A5436DF92B64F /* Expression-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Expression-umbrella.h"; sourceTree = "<group>"; };
 		0B053B0BB8ED52548D738C3A7EAFA081 /* Expression-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Expression-dummy.m"; sourceTree = "<group>"; };
 		0CCE98200DB6648C551D46AFAE8DA6A8 /* Pods-CalcuratorAppUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CalcuratorAppUITests.debug.xcconfig"; sourceTree = "<group>"; };
-		131615956149407FFA05F413DDF34FBB /* Pods_CalcuratorAppUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CalcuratorAppUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		131615956149407FFA05F413DDF34FBB /* Pods_CalcuratorAppUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_CalcuratorAppUITests.framework; path = "Pods-CalcuratorAppUITests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1BCA0F029CE65E2FE2610370ED5368C9 /* Expression-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Expression-prefix.pch"; sourceTree = "<group>"; };
 		2F5C7D3706959B3586F1CD7478170CDD /* Pods-CalcuratorApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CalcuratorApp.debug.xcconfig"; sourceTree = "<group>"; };
 		34C4D6DD77788520255F4908B01C2F67 /* Pods-CalcuratorAppTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CalcuratorAppTests.release.xcconfig"; sourceTree = "<group>"; };
@@ -63,7 +63,7 @@
 		413F64630E11E94198FD450FC6F0AECA /* Pods-CalcuratorApp-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-CalcuratorApp-resources.sh"; sourceTree = "<group>"; };
 		47785178B2535E09A79C922BA30E2C56 /* Pods-CalcuratorAppTests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-CalcuratorAppTests-frameworks.sh"; sourceTree = "<group>"; };
 		4895E0D2ED36DFF00C85516DA2784F55 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		49D864DA06CF870B825823E72D66B584 /* Expression.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Expression.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		49D864DA06CF870B825823E72D66B584 /* Expression.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Expression.framework; path = Expression.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		53556B0C8CC77676083BBAF1DCACC51C /* Pods-CalcuratorAppTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CalcuratorAppTests-acknowledgements.plist"; sourceTree = "<group>"; };
 		54A03CFFED6AB75F78F5B183B4EE9966 /* Pods-CalcuratorApp-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-CalcuratorApp-acknowledgements.markdown"; sourceTree = "<group>"; };
 		5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
@@ -73,15 +73,15 @@
 		7D436EC7CCFF9BF32241F632709C53B9 /* Pods-CalcuratorAppUITests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-CalcuratorAppUITests-resources.sh"; sourceTree = "<group>"; };
 		81DE0B5FA54155B178A658F576932A3A /* Pods-CalcuratorApp-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CalcuratorApp-acknowledgements.plist"; sourceTree = "<group>"; };
 		8BBE9209DBCAF61FAF9B889FBD316360 /* Pods-CalcuratorAppTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CalcuratorAppTests.debug.xcconfig"; sourceTree = "<group>"; };
-		8EF3050832D9C4F1EB0CEBD2CE145E18 /* Pods_CalcuratorApp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CalcuratorApp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		8EF3050832D9C4F1EB0CEBD2CE145E18 /* Pods_CalcuratorApp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_CalcuratorApp.framework; path = "Pods-CalcuratorApp.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		931DD8B875A05662BD69D0EFA799C7CC /* Pods-CalcuratorAppUITests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-CalcuratorAppUITests.modulemap"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9815B09CE4E5ABD9EDBC52D7C661B1D1 /* Pods-CalcuratorAppTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-CalcuratorAppTests.modulemap"; sourceTree = "<group>"; };
 		A234AB8AAC80CCF7AD91CFCB42B6F41A /* AnyExpression.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AnyExpression.swift; path = Sources/AnyExpression.swift; sourceTree = "<group>"; };
 		A47CCEEB1AEA650405F86BF4647D31A2 /* Expression.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Expression.h; path = Sources/Expression.h; sourceTree = "<group>"; };
 		A550BFF1FD440F4A3AEA22B49225182B /* Pods-CalcuratorAppUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CalcuratorAppUITests.release.xcconfig"; sourceTree = "<group>"; };
 		A55619B504F4E369E0176F7064365A3F /* Pods-CalcuratorAppTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-CalcuratorAppTests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		ABBA40E972ACC425F9623DCB5C620D4D /* Pods_CalcuratorAppTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CalcuratorAppTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		ABBA40E972ACC425F9623DCB5C620D4D /* Pods_CalcuratorAppTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_CalcuratorAppTests.framework; path = "Pods-CalcuratorAppTests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B0C44B953B0078C9FE0D8CFA82083630 /* Pods-CalcuratorAppTests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-CalcuratorAppTests-umbrella.h"; sourceTree = "<group>"; };
 		C25EE3D61D23AC2F93D485CC01C62D5C /* Pods-CalcuratorApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CalcuratorApp.release.xcconfig"; sourceTree = "<group>"; };
 		C26D9517596F439504790AEE0148C1F9 /* Pods-CalcuratorAppUITests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-CalcuratorAppUITests-acknowledgements.markdown"; sourceTree = "<group>"; };
@@ -208,6 +208,7 @@
 				C3ACA11FEFA91411B3FBB97C833FB5D0 /* Expression.swift */,
 				070BB1CF0E47C126F019CF8EDCDDEFD1 /* Support Files */,
 			);
+			name = Expression;
 			path = Expression;
 			sourceTree = "<group>";
 		};
@@ -384,7 +385,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0930;
-				LastUpgradeCheck = 0940;
+				LastUpgradeCheck = 0930;
 			};
 			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -483,7 +484,11 @@
 				INFOPLIST_FILE = "Target Support Files/Pods-CalcuratorApp/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-CalcuratorApp/Pods-CalcuratorApp.modulemap";
 				OTHER_LDFLAGS = "";
@@ -518,7 +523,11 @@
 				INFOPLIST_FILE = "Target Support Files/Expression/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
 				MODULEMAP_FILE = "Target Support Files/Expression/Expression.modulemap";
 				PRODUCT_MODULE_NAME = Expression;
 				PRODUCT_NAME = Expression;
@@ -552,7 +561,11 @@
 				INFOPLIST_FILE = "Target Support Files/Pods-CalcuratorAppTests/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-CalcuratorAppTests/Pods-CalcuratorAppTests.modulemap";
 				OTHER_LDFLAGS = "";
@@ -587,7 +600,11 @@
 				INFOPLIST_FILE = "Target Support Files/Pods-CalcuratorAppUITests/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-CalcuratorAppUITests/Pods-CalcuratorAppUITests.modulemap";
 				OTHER_LDFLAGS = "";
@@ -622,7 +639,11 @@
 				INFOPLIST_FILE = "Target Support Files/Pods-CalcuratorApp/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-CalcuratorApp/Pods-CalcuratorApp.modulemap";
 				OTHER_LDFLAGS = "";
@@ -721,7 +742,11 @@
 				INFOPLIST_FILE = "Target Support Files/Pods-CalcuratorAppUITests/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-CalcuratorAppUITests/Pods-CalcuratorAppUITests.modulemap";
 				OTHER_LDFLAGS = "";
@@ -791,7 +816,6 @@
 				MTL_ENABLE_DEBUG_INFO = NO;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
 				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Release;
@@ -813,7 +837,11 @@
 				INFOPLIST_FILE = "Target Support Files/Expression/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
 				MODULEMAP_FILE = "Target Support Files/Expression/Expression.modulemap";
 				PRODUCT_MODULE_NAME = Expression;
 				PRODUCT_NAME = Expression;
@@ -846,7 +874,11 @@
 				INFOPLIST_FILE = "Target Support Files/Pods-CalcuratorAppTests/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-CalcuratorAppTests/Pods-CalcuratorAppTests.modulemap";
 				OTHER_LDFLAGS = "";
